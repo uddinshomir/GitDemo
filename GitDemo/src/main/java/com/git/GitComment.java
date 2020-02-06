@@ -6,6 +6,8 @@ public class GitComment {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
+		
+		System.out.println("This is gonna show in Github once I push");
 
 	}
 
